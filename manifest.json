@@ -1,1 +1,37 @@
-{"name": "EKINOX Real Estate", "short_name": "EKINOX", "description": "SDLT & Cost Analyser", "start_url": "/ekinox-sdlt/", "scope": "/ekinox-sdlt/", "display": "standalone", "background_color": "#0F1C2E", "theme_color": "#0F1C2E", "orientation": "portrait", "icons": [{"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"}, {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}
+{
+  "name": "EKINOX Real Estate",
+  "short_name": "EKINOX",
+  "description": "SDLT & Cost Analyser",
+  "start_url": "/ekinox-sdlt/",
+  "scope": "/ekinox-sdlt/",
+  "display": "standalone",
+  "background_color": "#0F1C2E",
+  "theme_color": "#0F1C2E",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
